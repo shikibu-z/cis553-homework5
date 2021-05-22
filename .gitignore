@@ -1,0 +1,5 @@
+client-c
+server-c
+*.vscode
+*.txt
+*.bin
